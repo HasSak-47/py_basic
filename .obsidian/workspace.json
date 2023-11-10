@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a3db7b7a249885e",
+        "id": "554ed2c61b788033",
         "type": "tabs",
         "children": [
           {
-            "id": "3175307c8e342086",
+            "id": "5d6b798cd0d7dc57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "formulario.md",
+                "file": "cadenas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "formulario.md",
+                "file": "cadenas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "formulario.md",
+                "file": "cadenas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "formulario.md"
+                "file": "cadenas.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3175307c8e342086",
+  "active": "5d6b798cd0d7dc57",
   "lastOpenFiles": [
+    "basico.md",
+    "cadenas.md",
+    "formulario.md",
+    "cosa.py",
     "4913"
   ]
 }
