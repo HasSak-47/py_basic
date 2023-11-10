@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "95e4c8fa3cf4ee8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a3db7b7a249885e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3175307c8e342086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "formulario.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53bea31be872240e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c65bdb58a742bd99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab4931e6b0b5cf9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a83132fb873c48a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5b115c6e3ae4267",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ecbc436bba8a88e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4a4511e1052bfd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07a398b91495a165",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "formulario.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a06253ea2c5b682d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "formulario.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3894fac0cfafa3c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23a1eb47803f5ff2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "formulario.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3175307c8e342086",
+  "lastOpenFiles": [
+    "4913"
+  ]
+}
