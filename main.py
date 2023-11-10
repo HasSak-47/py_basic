@@ -1,4 +1,7 @@
-i = 0
-while i < 10:
-    print(i)
-    i = i + 1
+x: int = 0
+print(x)
+y: int = "test"
+print(y)
+
+x = "test2"
+print(x)
