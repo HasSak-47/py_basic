@@ -25,6 +25,10 @@
     - subcadenas
 - [estrucutra de datos](estrucutra_de_datos.md)
     - lista
+        - añadir / remover
+        - acceder
+        - estructura anidada
+        - strings
     - tupla
     - diccionario
 - [Control flow](control_flow.md)
@@ -42,4 +46,6 @@
     - iterar lista
     - iterar tupla
     - iterar diccionario
+- [funciones](funcion.md) -- vacio / incompleto
+- [metodos](metodos.md)   -- vacio / incompleto
 

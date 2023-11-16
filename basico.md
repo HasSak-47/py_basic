@@ -62,7 +62,7 @@ y : str = "string"
 Los operadores hacen una acción dependiendo de su tipo y regresan un valor
 ## Operadores binarios
 Son operadores que toman dos variables/valores
-### Operadores Aritméticos
+## Operadores Aritméticos
 ```python
 x = 1 + 2   # regresa la suma
 x = 1 - 2   # regresa la resta
@@ -73,7 +73,7 @@ x = 1 % 2   # regresa la remanente
 x = - 2     # regresa la negacion
 ```
 
-### Operadores Lógicos 
+## Operadores Lógicos 
 Estos tipos de operadores esperan que les pases un tipo booleano.
 Si estos reciben cualquier otro tipo regresaran uno de los valores de acuerdo a cual de los dos fue evaluado al final
 ```python
