@@ -22,11 +22,15 @@ x = []                  # lista vacia
 x = [0, 3, 'str']       # lista con puros elementos
 y = 1
 x = [y, 3, 'str']       # lista con con variables
+```
+## Añadir a la lista
 
+```python
 x.append(10)            # añadir 10 a la lista
 y = x.pop()             # remover el ultimo elemento y guardarlo en y
 ```
 
+## Acceso a la lista
 Para acceder a un elemento dentro de una lista se utiliza la syntaxis `lista[indice]`, donde el indice es un numero entero el cual especifica el indice del elemento, el indice inicia en 0. Si pones un indice igual o mas grande que el numero de elementos dentro de la lista python crashea
 
 ```python
@@ -36,7 +40,8 @@ print(x[1])     # 3
 print(x[2])     # str
 ```
 
-para sublistas se hace de la misma forma
+### Acceso a estructura anidada
+para estructuras anidadas se utiliza su metodo de acceso, ejemplo con la lista:
 ```python
 x = [0, [2, 4], 'str']
 print(x[0])         # 0
