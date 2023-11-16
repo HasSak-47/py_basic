@@ -1,6 +1,45 @@
 # Indice
 - [Basico](basico.md)
+    - comentarios
+    - variables
+        - creacion
+        - pista de tipo
+    - creacion y asignacion
+        - numeros enteros
+        - numeros decimales
+        - booleanos
+        - cadenas
+    - operadores 
+        - binarios
+        - aritmeticos
+        - logicos
+        - comparativos
+        - asignacion modifacion
+    - interaccion con el usuario
+        - leer 
+        - escribir 
+
 - [Cadenas](cadenas.md)
+    - creacion
+    - secuencia de escape
+    - subcadenas
+- [estrucutra de datos](estrucutra_de_datos.md)
+    - lista
+    - tupla
+    - diccionario
 - [Control flow](control_flow.md)
-- [for loop](for_loop.md)
+    - if
+    - else
+    - elif
+    - while
+        - break
+        - continue
 - [in](in.md)
+    - operador in
+    - iterador in
+- [for loop](for_loop.md)
+    - iterador range
+    - iterar lista
+    - iterar tupla
+    - iterar diccionario
+

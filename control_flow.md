@@ -42,4 +42,23 @@ while x < 10:
 
 ## Salida temprana
 Se puede salir temprano de un while utilizando la keyword `break`
+```python
+x = 0
+while x < 10:
+    if x == 4:
+        break
+    print(x)
+    x += 1
+```
+en este ejemplo el programa se sale del while cuando `x == 4`
 
+## Saltar codigo
+Se puede saltar codigo dentro de un while utilizando la keyword `continue`
+```python
+arr = [0, 1, 2, 3, 4, 5]
+while x < 10:
+    if x % 2 == 0:
+        continue
+    print(x)
+```
+en este ejemplo el programa no ejecuta el `print(x)` cuando `x % 2 == 0` es decir cuando x es par
