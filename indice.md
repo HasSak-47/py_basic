@@ -23,7 +23,7 @@
     - creacion
     - secuencia de escape
     - subcadenas
-- [estrucutra de datos](estrucutra_de_datos.md)
+- [estrucutra de datos](estructura_de_datos.md)
     - lista
         - añadir / remover
         - acceder
