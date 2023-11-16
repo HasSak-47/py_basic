@@ -18,8 +18,6 @@ while '  ' in string:                       # replaza '  ' con ' ' hasta que no 
     string = string.replace('  ', ' ')
 ```
 
-replace es un metodo especial de las cadenas que remplaza la primera instancia de la primera cadena con la segunda
-
 ## Keyword In
 Esta sirve para separar el for en 2 partes, la parte de la variable y la parte del iterador.
 ```python
