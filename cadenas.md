@@ -48,3 +48,14 @@ Las secuencias de escape se forman de la manera `\X` donde `X` es el valor escap
 | `\0XX` | valor octal XX |
 
 # Subcadenas
+Una subcadena es una porcion de una cadena, esta se puede hacer de la forma `sub = cadena[a:b]` `sub` es una subcadena de `cadena` que contiene los caracteres desde `a` hasta `b` no incluida.
+
+```python
+cadena = 'test string'
+sub = cadena[0:4]       # 'test' 
+sub = cadena[:4]        # 'test' 
+sub = cadena[0:-1]      # 'test strin' 
+sub = cadena[:-1]       # 'test strin' 
+sub = cadena[-6:]       # 'string' 
+sub = cadena[5:]        # 'string' 
+```
